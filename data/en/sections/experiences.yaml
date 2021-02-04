@@ -1,0 +1,77 @@
+# section information
+section:
+  name: Experiences
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    name: TM & RND.
+    url: "https://www.tmrnd.com.my"
+    location: Malaysia, Cyberjaya
+    # company overview
+    overview: TM is known for its innovations toward telecom sectors in Malaysia. It builds tools with IT & AI to enable the small telecom company to provide efficient services to their user.
+  positions:
+  - designation: Data Scientist 
+    start: Nov 2020
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Build end to end deep learning solutions to automate day to day task. 
+    - Build pipline to deploy scalable machine learning model. 
+    - Build solutions AI solutions for telcom.
+
+- company:
+    name: Tapway .
+    url: "https://gotapway.com/"
+    location: Malaysia, Petaling Jaya
+    overview: Tapway is known its innovative  technology toward artificial intelligence solutions for small businesss.
+  positions:
+  - designation: Data Science Intern 
+    start: July 2019
+    end: January 2020
+    responsibilities:
+    - Collected data through live streaming via cctv camera.
+    - labelled and prepare data for training.
+    - Built deep learning model to classify objects, count objects on motion (cars, motorcycle) and objects on table and via video streaming or cctv camera.
+    - Build analytics dashboard for client using Zoho Analytics
+    
+- company:
+    name: IIUM.
+    url: "https://www.iium.edu.my"
+    location: IIUM Gombak Campus
+    overview: "The Code is zero and one Our codes from the only *ONE*. We do codes to Heaven to be with the *ONE*. Do you have one??"
+  positions:
+  - designation: Research Assistant
+    start: Sept 2018
+    end: July 2019
+    responsibilities:
+    - Created machine learning models using python and Tensorflow to detect facial expression in real time.
+    - Built deep learning model convolutional neural network with keras for diagnosing lung cancer on medical image analysis. 
+    #- Write lots of example codes.
+    #- Read lots of examples.
+    #- See lots of example videos.
+
+- company:
+    name: Freelancer.
+    url: "#"
+    location: Nowhere
+    overview: Freelancing is the best way to acquire knowledge and earn some blue cheese.
+  positions:
+  - designation: Android Developer 
+    start: June 2017
+    end: August 2018
+    responsibilities:
+
+    - Responsible for development of all application components
+      and UI resources
+    - Work on bug fixing and improving application performance  
+    #- Write lots of example codes.
+    #- Read lots of examples.
+    #- See lots of example videos.
